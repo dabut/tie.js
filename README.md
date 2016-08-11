@@ -3,7 +3,7 @@ Tie.JS is a speedy javascript framework for adding integers of any size
 
 ### Usage
 ```javascript
-string tie.add([ int num1, int num2 , ... ])
+string tie.add([ string num1, string num2 , ... ])
 ```
 
 ### Authors and Contributors
