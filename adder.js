@@ -1,4 +1,4 @@
-var tie = {
+var adder = {
 
 	chunkSize: 12,
 
